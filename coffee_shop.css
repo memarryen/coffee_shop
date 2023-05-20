@@ -780,7 +780,7 @@ header {
     justify-content: space-between;
     bottom: 9%;
     z-index: 1;
-    overflow: hidden;
+    overflow: auto;
 }
 
 .blog-div1 {
