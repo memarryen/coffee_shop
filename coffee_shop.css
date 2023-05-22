@@ -810,7 +810,7 @@ header {
     width: 583px;
     height: 378px;
     background-color: #997D6C;
-    border-radius: 35px 0 0 35px;
+    border-radius: 35px;
     z-index: 2;
     margin-left: 30px;
     margin-right: 30px;
