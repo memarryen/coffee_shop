@@ -779,7 +779,7 @@ header {
     align-items: center;
     bottom: 9%;
     z-index: 1;
-    overflow: auto;
+    overflow: hidden;
 }
 
 .blog-div1 {
